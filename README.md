@@ -1,2 +1,0 @@
-# ManagerTrain
-Manager Train

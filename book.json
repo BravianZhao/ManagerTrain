@@ -1,0 +1,17 @@
+{
+  "plugins": [
+        "expandable-chapters"
+        ,"page-toc"
+        ,"zealar"
+        ,"back-to-top-button"
+        ,"audio_image"
+        ,"fancybox"
+        ,"image-captions"
+    ],
+  "pluginsConfig": {
+        "image-captions":{
+            "caption":"Image - _CAPTION_",
+            "align":"left"
+        }
+    }
+}
